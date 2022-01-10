@@ -7,7 +7,7 @@ const simpBotNoises = [
     new Audio("./assets/cle.mp3"),
     new Audio("./assets/eh.mp3"),
     new Audio("./assets/oo.mp3"),
-    new Audio("./assets/pop.mp3"),
+    //new Audio("./assets/pop.mp3"),
     new Audio("./assets/uu.mp3"),
 ];
 
